@@ -1,0 +1,34 @@
+.about {
+  .card {
+    margin: 20px;
+    width: auto;
+  }
+  .image-view {
+    margin: 0 20px;
+  }
+  .image {
+    width: 100%;
+    height: 100vw;
+  }
+  .action {
+    position: fixed;
+    left: 60px;
+    right: 60px;
+    bottom: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .btn-help {
+    position: absolute;
+    right: 0;
+    top: 160px;
+  }
+
+  .html2wxml--html2wxml {
+    padding: 40px !important;
+  }
+  .html2wxml--wxml-h2 {
+    border-bottom: 1px dashed #999;
+  }
+}

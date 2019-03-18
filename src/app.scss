@@ -1,0 +1,18 @@
+/* Custom Theme */
+$color-brand: #cba7f9;
+$color-brand-light: #d8bdfb;
+$color-brand-dark: #a286c7;
+
+@import '~taro-ui/dist/style/index.scss';
+
+.btn {
+  // width: 60px;
+  // height: 60px;
+  // line-height: 60px;
+  padding: 0;
+  border-radius: 50%;
+  background: transparent;
+  &::after {
+    border: none;
+  }
+}

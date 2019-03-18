@@ -1,0 +1,26 @@
+.btn-upload {
+  position: fixed;
+  width: 240px;
+  bottom: 60px;
+  left: 0;
+  right: 0;
+
+  height: 80px;
+  line-height: 80px;
+  font-size: 36px;
+  font-weight: 600;
+  color: #fff;
+  border-radius: 80px;
+  border: 1px solid rgba(203, 167, 249, 0.5);
+  background: rgba(203, 167, 249, 0.5);
+  background: linear-gradient(
+    135deg,
+    rgba(169, 249, 203, 0.5) 0%,
+    rgba(203, 169, 249, 0.5) 50%,
+    rgba(249, 203, 169, 0.5) 100%
+  );
+
+  &::after {
+    border: none;
+  }
+}
