@@ -1,3 +1,8 @@
+# 村花杨老师
+
+使用微信扫码即可体验
+![ycy](https://github.com/hengzi/ycy-taro/blob/master/src/assert//ycy.jpeg)
+
 ## 声明
 
 【村花杨老师】小程序所有素材资源均来源于互联网，仅供学习交流，不用于商业用途。如有侵权，可联系作者删除。
@@ -57,10 +62,6 @@
 
 使用 3 个 swiper-item 作为循环基础的缺陷：在网络情况比较差或快速切换的情况下，可能会出现当前 swiper-item 上显示之前的图片，需要等待当前图片加载完成之后才切换到正确的图片。可以尝试增加 swiper-item 循环基础的数量，以增加非当前 item 的图片的预加载时长。
 
-### 开源
-
-【村花杨老师】小程序的所有代码已经上传至 GitHub，项目地址：github.com/hengzi/ycy-taro
-
 ## 审核
 
 ### 没通过
@@ -89,7 +90,7 @@
 
 以下是我在之前工作中主导开发的几个小程序项目，感兴趣的话可以通过点击预览小程序二维码，然后长按识别小程序码进入对应的小程序查看。
 
-![dczj](cloud://prod-a10476.7072-prod-a10476/app/dczj.jpeg)
-![jxb](cloud://prod-a10476.7072-prod-a10476/app/jxb.jpeg)
-![dzz](cloud://prod-a10476.7072-prod-a10476/app/dzz.jpeg)
-![czc](cloud://prod-a10476.7072-prod-a10476/app/czc.jpeg)
+![dczj](https://github.com/hengzi/ycy-taro/blob/master/src/assert//dczj.jpeg)
+![jxb](https://github.com/hengzi/ycy-taro/blob/master/src/assert//jxb.jpeg)
+![dzz](https://github.com/hengzi/ycy-taro/blob/master/src/assert//dzz.jpeg)
+![czc](https://github.com/hengzi/ycy-taro/blob/master/src/assert//czc.jpeg)
